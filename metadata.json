@@ -1,0 +1,6 @@
+{
+  "name": "PharmaTrack - Medicine Inventory & Expiry Management System",
+  "description": "Role-based pharmaceutical inventory management with automated expiry alerts, physical removal & admin approval workflow, low stock threshold purchase alerts, and audit updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
